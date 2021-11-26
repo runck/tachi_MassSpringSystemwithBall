@@ -13,5 +13,5 @@ P.S. 为了方便，目前是唯象的描述，并不是基于物理推导的公
 ## 成功效果展示
 运行gif展示：
 
-![demo gif](./data/demo.jpg)
+![demo gif](./data/demo.gif)
 
